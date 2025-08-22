@@ -2,7 +2,7 @@
 Learning something new every day
 
 18-08-2025
--Azure Basics- 
+-Azure Basics
 
 19-08-2025
 -Azure-
