@@ -2,10 +2,10 @@
 Learning something new every day
 
 18-08-2025
--Azure Basics
+-Azure Basics(Induction session)
 
 19-08-2025
--Azure-
+-Azure(Induction session)
 
 20-08-2025
 
