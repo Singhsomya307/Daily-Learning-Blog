@@ -20,8 +20,8 @@ Learning something new every day
 -Solved Java problems
 
 22-08-2025
-
--Solved Java problems
--Design Thinking
+-Design Thinking(Induction session)
 -https://medium.com/@jasoncmcbride/how-to-create-a-life-you-love-0750e852475a
+
+
 
