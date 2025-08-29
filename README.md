@@ -33,9 +33,11 @@ Learning something new every day
 **28-08-2025**:
 - https://www.geeksforgeeks.org/web-scraping/preprocessing-scraped-data/
 - Solved Java problems
+- implementation (stack, queue, sort, graph traversal).
  
-**29-08-2025**
- - 
+**29-08-2025**:
+- Streams for collections, Regex for validation, Recursion for divide & conquer.
+- Bubble sort (simple but slow) vs Merge/Heap sort (efficient).
 
 
 
