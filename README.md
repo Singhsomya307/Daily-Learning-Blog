@@ -24,6 +24,19 @@ Learning something new every day
 **25-08-2025**:
 - https://www.geeksforgeeks.org/blogs/chatgpt-5/
 - https://quickcreator.io/blog/hallucination-rate-ai-content-definition/
+- JVM
+- 
+
+**26-08-2025**
+- Java code execution
+- Solved Java problems
+
+  **28-08-2025**
+  - https://www.geeksforgeeks.org/web-scraping/preprocessing-scraped-data/
+  - Solved Java problems
+ 
+  **29-08-2025**
+  - 
 
 
 
